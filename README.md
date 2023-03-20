@@ -1,0 +1,4 @@
+| Wallet |                   Address                  | QR Code |                                                                       Link                                                                       |
+|:------:|:------------------------------------------:|:-------:|:------------------------------------------------------------------------------------------------------------------------------------------------:|
+| TRC20  | TY9FoyTWAF5aRXSkCNDpxPWxjVf6QQDMFW         | #       | https://link.trustwallet.com/send?address=TY9FoyTWAF5aRXSkCNDpxPWxjVf6QQDMFW&asset=c195_tTR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t                      |
+| BEP20  | 0xE3228C5d798055281e181ECEf788020612A7E61B |         | https://link.trustwallet.com/send?asset=c20000714_t0x55d398326f99059fF775485246999027B3197955&address=0xE3228C5d798055281e181ECEf788020612A7E61B |
